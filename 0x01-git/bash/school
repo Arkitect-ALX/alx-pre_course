@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #!/bin/bash 
-echo "School"
+echo "School is open"
 =======
 #!/bin/bash
-echo "school"
+echo "school is open"
 >>>>>>> origin/main
